@@ -1,0 +1,406 @@
+      6    1       3       java.lang.Object::<init> (1 bytes)
+      6    2       3       java.lang.String::hashCode (60 bytes)
+      6    3       3       java.lang.StringLatin1::hashCode (42 bytes)
+      6    5       3       java.util.ImmutableCollections$SetN::probe (56 bytes)
+      6    6       3       java.util.ImmutableCollections$SetN::hashCode (46 bytes)
+      6    4       3       java.lang.Math::floorMod (20 bytes)
+      6    7       3       java.lang.String::equals (56 bytes)
+      7    8       3       java.lang.StringLatin1::equals (36 bytes)
+      7    9       3       java.util.Objects::equals (23 bytes)
+      7   10       3       java.util.Set::of (4 bytes)
+      7   11       3       java.lang.module.ModuleDescriptor$Exports::<init> (20 bytes)
+      7   12       3       java.lang.module.ModuleDescriptor$Exports::hashCode (38 bytes)
+      7   13       3       java.util.Objects::requireNonNull (14 bytes)
+      7   14       3       java.util.AbstractCollection::<init> (5 bytes)
+      7   15       3       java.util.ImmutableCollections$AbstractImmutableCollection::<init> (5 bytes)
+      7   16       3       java.util.ImmutableCollections$AbstractImmutableSet::<init> (5 bytes)
+      7   17       3       java.util.Set::of (68 bytes)
+      7   18       3       java.lang.String::coder (15 bytes)
+      7   19       1       java.lang.module.ModuleDescriptor::name (5 bytes)
+      7   20       3       java.lang.String::length (11 bytes)
+      8   21       3       java.lang.String::isLatin1 (19 bytes)
+      8   22       1       java.lang.module.ModuleReference::descriptor (5 bytes)
+      8   23       3       java.util.concurrent.ConcurrentHashMap::tabAt (22 bytes)
+      8   25       3       java.util.ImmutableCollections$SetN$SetNIterator::next (90 bytes)
+      8   24       3       jdk.internal.misc.Unsafe::getReferenceAcquire (7 bytes)
+      8   26       1       java.util.KeyValueHolder::getKey (5 bytes)
+      8   27       1       java.util.KeyValueHolder::getValue (5 bytes)
+      8   28       4       java.lang.Object::<init> (1 bytes)
+      9   29       3       java.util.KeyValueHolder::<init> (21 bytes)
+      9    1       3       java.lang.Object::<init> (1 bytes)   made not entrant
+      9   30       3       java.util.ImmutableCollections$MapN::probe (60 bytes)
+      9   32     n 0       java.lang.Object::hashCode (native)   
+      9   31       3       java.util.ImmutableCollections$MapN::get (35 bytes)
+      9   34       3       java.util.ImmutableCollections$SetN$SetNIterator::hasNext (13 bytes)
+      9   36   !   3       java.util.concurrent.ConcurrentHashMap::putVal (432 bytes)
+      9   40     n 0       jdk.internal.misc.Unsafe::compareAndSetLong (native)   
+      9   41     n 0       jdk.internal.misc.Unsafe::compareAndSetReference (native)   
+     10   42       3       java.util.concurrent.ConcurrentHashMap::casTabAt (21 bytes)
+     10   35       3       java.util.concurrent.ConcurrentHashMap::spread (10 bytes)
+     10   43     n 0       java.lang.System::arraycopy (native)   (static)
+     10   37       3       java.util.concurrent.ConcurrentHashMap$Node::<init> (20 bytes)
+     10   38       3       java.util.concurrent.ConcurrentHashMap::addCount (280 bytes)
+     10   46       3       java.util.HashMap::putVal (300 bytes)
+     10   39       3       java.util.concurrent.ConcurrentHashMap::putIfAbsent (8 bytes)
+     10   45       3       java.util.HashMap::hash (20 bytes)
+     11   52       3       java.util.HashMap::afterNodeInsertion (1 bytes)
+     11   53       3       java.util.HashMap::getNode (150 bytes)
+     11   49       3       java.util.HashMap::newNode (13 bytes)
+     11   50       3       java.util.HashMap$Node::<init> (26 bytes)
+     11   51       3       java.util.HashMap::put (13 bytes)
+     11   47       1       java.lang.module.ModuleDescriptor$Exports::source (5 bytes)
+     11   54       3       java.util.HashMap::get (19 bytes)
+     11   44       1       java.lang.module.ResolvedModule::reference (5 bytes)
+     11   33       3       jdk.internal.module.ModuleReferenceImpl::hashCode (56 bytes)
+     11   48       1       java.lang.module.ModuleDescriptor::isAutomatic (5 bytes)
+     11   56       1       java.lang.module.ResolvedModule::configuration (5 bytes)
+     11   57       1       java.util.ImmutableCollections$Set12::isEmpty (2 bytes)
+     11   55       1       java.lang.module.ModuleDescriptor$Exports::targets (5 bytes)
+     12   58       3       java.lang.String::charAt (25 bytes)
+     12   59       3       java.lang.StringLatin1::charAt (28 bytes)
+     13   46       3       java.util.HashMap::putVal (300 bytes)   made not entrant
+     13   51       3       java.util.HashMap::put (13 bytes)   made not entrant
+     13   54       3       java.util.HashMap::get (19 bytes)   made not entrant
+     13   60       4       java.lang.StringLatin1::hashCode (42 bytes)
+     13   61       3       java.util.HashMap::putVal (300 bytes)
+     14   62       3       java.lang.String::isEmpty (14 bytes)
+     14    3       3       java.lang.StringLatin1::hashCode (42 bytes)   made not entrant
+     14   63       3       java.lang.Math::min (11 bytes)
+     15   64     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLLLLL)L (native)   (static)
+     16   65     n 0       java.lang.invoke.MethodHandle::linkToStatic(IL)L (native)   (static)
+     16   66       1       java.lang.Class::getClassLoader0 (5 bytes)
+     16   67     n 0       java.lang.invoke.MethodHandle::invokeBasic(LLLLLL)L (native)   
+     16   68     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LLLLLLLL)L (native)   (static)
+     16   69       1       java.lang.Enum::ordinal (5 bytes)
+     16   71       3       java.lang.AbstractStringBuilder::ensureCapacityInternal (39 bytes)
+     16   70       3       java.lang.StringLatin1::canEncode (13 bytes)
+     16   72     n 0       java.lang.Class::isPrimitive (native)   
+     17   73     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LIL)V (native)   (static)
+     17   74     n 0       java.lang.invoke.MethodHandle::invokeBasic(I)L (native)   
+     17   75     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LIL)L (native)   (static)
+     17   76       1       java.lang.invoke.MethodType::returnType (5 bytes)
+     18   77       1       java.util.concurrent.atomic.AtomicInteger::get (5 bytes)
+     18   78       1       java.util.concurrent.locks.AbstractOwnableSynchronizer::setExclusiveOwnerThread (6 bytes)
+     18   80       3       java.util.concurrent.ConcurrentHashMap::get (162 bytes)
+     18   82     n 0       java.lang.Thread::currentThread (native)   (static)
+     18   85     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLLL)I (native)   (static)
+     18   86     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLLL)I (native)   (static)
+     18   87     n 0       jdk.internal.misc.Unsafe::compareAndSetInt (native)   
+     19   88       3       java.util.concurrent.ThreadPoolExecutor::workerCountOf (5 bytes)
+     19   81       3       java.lang.invoke.MethodTypeForm::canonicalize (74 bytes)
+     19   79       1       java.util.concurrent.locks.AbstractOwnableSynchronizer::getExclusiveOwnerThread (5 bytes)
+     19   89       3       java.util.concurrent.ThreadPoolExecutor::isRunning (10 bytes)
+     19   83       1       java.util.concurrent.locks.AbstractQueuedSynchronizer::setState (6 bytes)
+     19   91     n 0       jdk.internal.misc.Unsafe::getIntVolatile (native)   
+     19   84       1       java.util.concurrent.locks.AbstractQueuedSynchronizer::getState (5 bytes)
+     19   90       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::compareAndSetState (13 bytes)
+     19   92       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::release (19 bytes)
+     19   97       3       jdk.internal.misc.Unsafe::getAndAddInt (27 bytes)
+     19   96       3       jdk.internal.misc.Unsafe::weakCompareAndSetInt (11 bytes)
+     19   98       3       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)
+     19  101       3       java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject::signal (34 bytes)
+     20  102       3       java.util.concurrent.locks.ReentrantLock$Sync::isHeldExclusively (16 bytes)
+     20  108       4       java.util.concurrent.ThreadPoolExecutor::workerCountOf (5 bytes)
+     20  109       3       java.lang.invoke.DirectMethodHandle::allocateInstance (16 bytes)
+     20  110     n 0       jdk.internal.misc.Unsafe::allocateInstance (native)   
+     34  112       3       java.lang.invoke.DirectMethodHandle::constructorMethod (10 bytes)
+     34   88       3       java.util.concurrent.ThreadPoolExecutor::workerCountOf (5 bytes)   made not entrant
+     34  111 %     4       ru.tinkoff.Main::count @ 2 (34 bytes)
+     34   93       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)
+     34   94       3       java.util.ArrayList::add (25 bytes)
+     35   99       3       java.util.concurrent.locks.ReentrantLock::unlock (10 bytes)
+     35  111 %     4       ru.tinkoff.Main::count @ 2 (34 bytes)   COMPILE SKIPPED: too many D-U pinch points (retry at different tier)
+     35  100       3       java.util.concurrent.locks.ReentrantLock$Sync::tryRelease (51 bytes)
+     35  125 %     1       ru.tinkoff.Main::count @ 2 (34 bytes)
+     35   95       3       java.util.ArrayList::add (23 bytes)
+     35  103       3       java.util.concurrent.locks.ReentrantLock::lock (8 bytes)
+     35  126       4       java.util.concurrent.locks.AbstractQueuedSynchronizer::compareAndSetState (13 bytes)
+     35  104       3       java.util.concurrent.locks.ReentrantLock$Sync::lock (13 bytes)
+     35  127       1       ru.tinkoff.Main::count (34 bytes)
+     35  105       3       java.util.concurrent.atomic.AtomicInteger::getAndIncrement (12 bytes)
+     35  106       3       java.lang.invoke.Invokers$Holder::linkToTargetMethod (9 bytes)
+     36  107       3       java.lang.invoke.DirectMethodHandle$Holder::newInvokeSpecial (21 bytes)
+     36   90       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::compareAndSetState (13 bytes)   made not entrant
+     36  128       4       jdk.internal.misc.Unsafe::weakCompareAndSetInt (11 bytes)
+     36  123   !   3       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)
+     36   96       3       jdk.internal.misc.Unsafe::weakCompareAndSetInt (11 bytes)   made not entrant
+     36  129       4       java.util.concurrent.atomic.AtomicInteger::getAndIncrement (12 bytes)
+     37  124       3       java.util.concurrent.LinkedBlockingQueue::enqueue (14 bytes)
+     37  105       3       java.util.concurrent.atomic.AtomicInteger::getAndIncrement (12 bytes)   made not entrant
+     37  130       4       java.util.concurrent.ThreadPoolExecutor::isRunning (10 bytes)
+     37  113       3       ru.tinkoff.Main$$Lambda$1/0x0000000800c00a08::<init> (10 bytes)
+     37  114       3       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)
+     37   89       3       java.util.concurrent.ThreadPoolExecutor::isRunning (10 bytes)   made not entrant
+     37  115       3       java.util.concurrent.CompletableFuture::screenExecutor (31 bytes)
+     37  116       3       java.util.concurrent.ForkJoinPool::commonPool (4 bytes)
+     37  117       3       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)
+     38  118       3       java.util.concurrent.CompletableFuture::<init> (5 bytes)
+     38  119       3       java.util.concurrent.CompletableFuture$AsyncSupply::<init> (15 bytes)
+     38  120       3       java.util.concurrent.ForkJoinTask::<init> (5 bytes)
+     38  121       3       java.util.concurrent.ThreadPoolExecutor::execute (132 bytes)
+     38  131       4       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)
+     38  122       3       java.util.concurrent.LinkedBlockingQueue$Node::<init> (10 bytes)
+     38   93       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)   made not entrant
+     38  132       4       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)
+     39   98       3       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)   made not entrant
+     39  133       4       java.lang.invoke.Invokers$Holder::linkToTargetMethod (9 bytes)
+     39  135       3       java.lang.Class::cast (27 bytes)
+     41  106       3       java.lang.invoke.Invokers$Holder::linkToTargetMethod (9 bytes)   made not entrant
+     41  136       4       java.lang.invoke.DirectMethodHandle$Holder::newInvokeSpecial (21 bytes)
+     41  132       4       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)   made not entrant
+     42  138       3       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)
+     42  107       3       java.lang.invoke.DirectMethodHandle$Holder::newInvokeSpecial (21 bytes)   made not entrant
+     42  139   !   4       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)
+     43  144       2       java.lang.Number::<init> (5 bytes)
+     44  145       2       java.util.concurrent.ThreadPoolExecutor::runStateAtLeast (11 bytes)
+     44  146       2       java.lang.Thread::interrupted (23 bytes)
+     45  147       1       java.lang.invoke.VarHandle::isDirect (2 bytes)
+    134  148       1       java.lang.Double::doubleValue (5 bytes)
+    135  149     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLL)V (native)   (static)
+    136  123   !   3       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)   made not entrant
+    136  134       4       java.util.concurrent.locks.ReentrantLock$Sync::isHeldExclusively (16 bytes)
+    136  150       3       java.lang.invoke.VarForm::getMemberNameOrNull (19 bytes)
+    136  102       3       java.util.concurrent.locks.ReentrantLock$Sync::isHeldExclusively (16 bytes)   made not entrant
+    136  140       4       java.util.concurrent.locks.ReentrantLock$Sync::tryRelease (51 bytes)
+    136  151       3       java.lang.invoke.VarHandle::checkExactAccessMode (28 bytes)
+    137  100       3       java.util.concurrent.locks.ReentrantLock$Sync::tryRelease (51 bytes)   made not entrant
+    137  137       4       java.util.ArrayList::add (25 bytes)
+    137  152       3       java.lang.invoke.VarHandleGuards::guard_LLL_Z (86 bytes)
+    137  154     n 0       java.lang.invoke.MethodHandle::invokeBasic(LLLL)I (native)   
+    137   94       3       java.util.ArrayList::add (25 bytes)   made not entrant
+    137  141       4       ru.tinkoff.Main$$Lambda$1/0x0000000800c00a08::<init> (10 bytes)
+    137  113       3       ru.tinkoff.Main$$Lambda$1/0x0000000800c00a08::<init> (10 bytes)   made not entrant
+    137  142       4       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)
+    138  153       3       java.lang.invoke.VarHandleReferences$FieldInstanceReadWrite::compareAndSet (48 bytes)
+    138  155       3       java.util.concurrent.CompletableFuture::postComplete (94 bytes)
+    140  156       3       java.util.concurrent.ThreadPoolExecutor$Worker::unlock (7 bytes)
+    140  157       3       java.util.concurrent.ThreadPoolExecutor$Worker::tryRelease (12 bytes)
+    141  158       3       java.lang.Double::valueOf (9 bytes)
+    141  159       3       java.lang.Double::<init> (10 bytes)
+    141  160       3       java.util.ArrayList$Itr::hasNext (20 bytes)
+    141  114       3       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)   made not entrant
+    141  163       4       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)
+    142  138       3       java.util.concurrent.locks.ReentrantLock$NonfairSync::initialTryLock (58 bytes)   made not entrant
+    142  143       4       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)
+    145  117       3       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)   made not entrant
+    234  161       3       java.util.concurrent.CompletableFuture::completeValue (20 bytes)
+    235  162       3       java.util.concurrent.ThreadPoolExecutor::afterExecute (1 bytes)
+    235  164       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::acquire (20 bytes)
+    237  165       3       java.lang.invoke.VarForm::getMemberName (20 bytes)
+    238  166       3       java.util.concurrent.CompletableFuture$Signaller::isReleasable (74 bytes)
+    246  167       3       java.util.concurrent.ThreadPoolExecutor$Worker::lock (6 bytes)
+    246  168       3       java.util.concurrent.ThreadPoolExecutor$Worker::tryAcquire (20 bytes)
+    247  169       3       java.util.concurrent.ThreadPoolExecutor::beforeExecute (1 bytes)
+    335  170   !   3       java.util.concurrent.CompletableFuture$AsyncSupply::run (61 bytes)
+    336  172   !   3       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)
+    337  173   !   3       java.util.concurrent.LinkedBlockingQueue::take (91 bytes)
+    338  171       3       ru.tinkoff.Main$$Lambda$1/0x0000000800c00a08::get (8 bytes)
+    338  174       3       java.util.concurrent.LinkedBlockingQueue::dequeue (32 bytes)
+    338  175       3       java.util.concurrent.atomic.AtomicInteger::getAndDecrement (12 bytes)
+    338  176       3       java.util.concurrent.locks.LockSupport::setBlocker (12 bytes)
+    338  177       3       jdk.internal.misc.Unsafe::putReferenceOpaque (9 bytes)
+    440  178       3       java.util.ArrayList$Itr::next (66 bytes)
+    441  179       3       java.util.ArrayList$Itr::checkForComodification (23 bytes)
+    441  180       3       java.util.concurrent.CompletableFuture::get (20 bytes)
+    441  181       3       java.util.concurrent.CompletableFuture::reportGet (74 bytes)
+    543  182       3       java.util.concurrent.CompletableFuture$Signaller::<init> (28 bytes)
+    543  184     n 0       jdk.internal.misc.Unsafe::putReference (native)   
+    543  183       3       java.util.concurrent.CompletableFuture$Completion::<init> (5 bytes)
+    544  185       3       java.lang.invoke.VarHandleGuards::guard_LL_V (125 bytes)
+    544  188     n 0       java.lang.invoke.MethodHandle::invokeBasic(LLL)V (native)   
+    636  186       3       java.lang.invoke.VarHandleReferences$FieldInstanceReadWrite::set (35 bytes)
+    637  187       3       java.util.concurrent.CompletableFuture$Signaller::tryFire (20 bytes)
+    640  189       3       java.util.concurrent.CompletableFuture::tryPushStack (23 bytes)
+    735  190   !   3       java.util.concurrent.CompletableFuture::waitingGet (142 bytes)
+    845  192       3       java.util.concurrent.CompletableFuture$Signaller::block (36 bytes)
+    845  194     n 0       jdk.internal.misc.Unsafe::park (native)   
+    845  195     n 0       jdk.internal.misc.Unsafe::unpark (native)   
+    845  191       3       java.util.concurrent.ForkJoinPool::unmanagedBlock (31 bytes)
+    846  193       3       java.util.concurrent.locks.LockSupport::park (23 bytes)
+   1038  196       3       java.util.concurrent.ForkJoinPool::managedBlock (36 bytes)
+   1142  197       3       java.lang.Thread::interrupted (23 bytes)
+   1142  146       2       java.lang.Thread::interrupted (23 bytes)   made not entrant
+   1436  198       4       java.util.concurrent.ThreadPoolExecutor::afterExecute (1 bytes)
+   1437  162       3       java.util.concurrent.ThreadPoolExecutor::afterExecute (1 bytes)   made not entrant
+   1441  199       4       jdk.internal.misc.Unsafe::putReferenceOpaque (9 bytes)
+   1441  177       3       jdk.internal.misc.Unsafe::putReferenceOpaque (9 bytes)   made not entrant
+   1538  200       4       java.util.concurrent.ThreadPoolExecutor::beforeExecute (1 bytes)
+   1538  169       3       java.util.concurrent.ThreadPoolExecutor::beforeExecute (1 bytes)   made not entrant
+   1539  201       4       java.util.concurrent.LinkedBlockingQueue::dequeue (32 bytes)
+   1540  174       3       java.util.concurrent.LinkedBlockingQueue::dequeue (32 bytes)   made not entrant
+   1540  202       4       java.util.concurrent.atomic.AtomicInteger::getAndDecrement (12 bytes)
+   1540  175       3       java.util.concurrent.atomic.AtomicInteger::getAndDecrement (12 bytes)   made not entrant
+   1746  203       3       java.util.concurrent.ThreadPoolExecutor::runStateAtLeast (11 bytes)
+   1746  145       2       java.util.concurrent.ThreadPoolExecutor::runStateAtLeast (11 bytes)   made not entrant
+   3836  204       4       java.util.concurrent.CompletableFuture$Signaller::isReleasable (74 bytes)
+   3837  166       3       java.util.concurrent.CompletableFuture$Signaller::isReleasable (74 bytes)   made not entrant
+   4047  205       4       java.util.concurrent.CompletableFuture::postComplete (94 bytes)
+   4136  155       3       java.util.concurrent.CompletableFuture::postComplete (94 bytes)   made not entrant
+   4142  206       4       java.lang.Thread::interrupted (23 bytes)
+   4143  197       3       java.lang.Thread::interrupted (23 bytes)   made not entrant
+   4248  207       4       java.util.concurrent.ThreadPoolExecutor::runStateAtLeast (11 bytes)
+   4248  203       3       java.util.concurrent.ThreadPoolExecutor::runStateAtLeast (11 bytes)   made not entrant
+   5640  208       4       java.util.concurrent.locks.LockSupport::setBlocker (12 bytes)
+   5640  176       3       java.util.concurrent.locks.LockSupport::setBlocker (12 bytes)   made not entrant
+   6040  209       4       java.util.concurrent.locks.AbstractQueuedSynchronizer::acquire (20 bytes)
+   6135  164       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::acquire (20 bytes)   made not entrant
+   6243  210       4       java.util.concurrent.ThreadPoolExecutor$Worker::unlock (7 bytes)
+   6244  156       3       java.util.concurrent.ThreadPoolExecutor$Worker::unlock (7 bytes)   made not entrant
+   6244  211       4       java.util.ArrayList$Itr::hasNext (20 bytes)
+   6335  160       3       java.util.ArrayList$Itr::hasNext (20 bytes)   made not entrant
+   6346  212       4       java.util.concurrent.ThreadPoolExecutor$Worker::lock (6 bytes)
+   6347  167       3       java.util.concurrent.ThreadPoolExecutor$Worker::lock (6 bytes)   made not entrant
+   6435  213   !   4       java.util.concurrent.CompletableFuture$AsyncSupply::run (61 bytes)
+   6542  170   !   3       java.util.concurrent.CompletableFuture$AsyncSupply::run (61 bytes)   made not entrant
+   6542  214   !   4       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)
+   6638  172   !   3       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)   made not entrant
+   7546  215       4       java.util.ArrayList$Itr::next (66 bytes)
+   7547  178       3       java.util.ArrayList$Itr::next (66 bytes)   made not entrant
+   7635  216       4       java.util.concurrent.CompletableFuture::reportGet (74 bytes)
+   7636  181       3       java.util.concurrent.CompletableFuture::reportGet (74 bytes)   made not entrant
+   8339  217   !   4       java.util.concurrent.CompletableFuture::waitingGet (142 bytes)
+   8441  190   !   3       java.util.concurrent.CompletableFuture::waitingGet (142 bytes)   made not entrant
+   8839  218       4       java.util.concurrent.CompletableFuture::get (20 bytes)
+   9039  180       3       java.util.concurrent.CompletableFuture::get (20 bytes)   made not entrant
+  13637  219       3       java.lang.StringLatin1::indexOfChar (33 bytes)
+  13637  219       3       java.lang.StringLatin1::indexOfChar (33 bytes)   COMPILE SKIPPED: Jvmti state change invalidated dependencies
+  22745  214   !   4       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)   made not entrant
+  22745  131       4       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)   made not entrant
+  22745  211       4       java.util.ArrayList$Itr::hasNext (20 bytes)   made not entrant
+  22745  210       4       java.util.concurrent.ThreadPoolExecutor$Worker::unlock (7 bytes)   made not entrant
+  22745  191       3       java.util.concurrent.ForkJoinPool::unmanagedBlock (31 bytes)   made not entrant
+  22745  196       3       java.util.concurrent.ForkJoinPool::managedBlock (36 bytes)   made not entrant
+  22746   92       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::release (19 bytes)   made not entrant
+  22746  220       3       jdk.internal.math.FDBigInteger::mult (64 bytes)
+  22747  221       3       jdk.internal.math.FDBigInteger::<init> (30 bytes)
+  22747  222       3       jdk.internal.math.FDBigInteger::trimLeadingZeros (57 bytes)
+1.3390295002913491E8
+  22835  223       3       java.lang.String::<init> (15 bytes)
+  22836  225     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLLLL)L (native)   (static)
+  22836  224       1       java.lang.module.ModuleDescriptor::isOpen (5 bytes)
+  22837  133       4       java.lang.invoke.Invokers$Holder::linkToTargetMethod (9 bytes)   made not entrant
+  22837  152       3       java.lang.invoke.VarHandleGuards::guard_LLL_Z (86 bytes)   made not entrant
+  22837  185       3       java.lang.invoke.VarHandleGuards::guard_LL_V (125 bytes)   made not entrant
+  22837  226     n 0       java.lang.invoke.MethodHandle::invokeBasic(LLLLL)L (native)   
+  22837  227     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LLLLLLL)L (native)   (static)
+  22838  228   !   3       java.lang.ref.ReferenceQueue::poll (28 bytes)
+  22838  229       1       java.lang.invoke.MethodType::ptypes (5 bytes)
+  22838  230     n 0       java.lang.invoke.MethodHandle::linkToStatic(LJL)L (native)   (static)
+  22838  231       3       java.lang.invoke.MethodType::hashCode (53 bytes)
+  22839  232       3       java.lang.invoke.MethodType$ConcurrentWeakInternSet::expungeStaleElements (27 bytes)
+  22839  233       3       java.lang.invoke.MemberName::testFlags (16 bytes)
+  22839  234     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLL)L (native)   (static)
+  22839  235     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLL)L (native)   (static)
+  22840  236       1       java.lang.invoke.MemberName::getDeclaringClass (5 bytes)
+  22840  237     n 0       java.lang.Class::isArray (native)   
+  22840  238     n 0       java.lang.invoke.MethodHandle::invokeBasic(LJ)L (native)   
+  22840  239     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LLJL)L (native)   (static)
+  22841  240       3       java.lang.AbstractStringBuilder::isLatin1 (19 bytes)
+  22848  241       3       java.lang.invoke.MethodType::checkSlotCount (33 bytes)
+  22848  244     n 0       java.lang.invoke.MethodHandle::linkToStatic(JLJLL)J (native)   (static)
+  22848  245     n 0       java.lang.invoke.MethodHandle::invokeBasic(JLJL)J (native)   
+  22849  246     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LJLJLL)J (native)   (static)
+  22849  242       3       java.lang.invoke.MemberName::isInvocable (8 bytes)
+  22849  243       3       java.lang.invoke.MemberName::testAnyFlags (15 bytes)
+  22849  248     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLLL)L (native)   (static)
+  22849  247       3       java.lang.invoke.MethodType::parameterType (7 bytes)
+  22849  249       1       java.lang.invoke.MethodType::form (5 bytes)
+  22849  250       1       java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry::hashCode (5 bytes)
+  22850  251     n 0       java.lang.invoke.MethodHandle::invokeBasic(LLLL)L (native)   
+  22850  252       3       java.lang.invoke.MethodType::<init> (15 bytes)
+  22850  253       3       java.lang.invoke.MethodType$ConcurrentWeakInternSet::get (47 bytes)
+  22851  254     n 0       java.lang.invoke.MethodHandle::invokeBasic(JLJ)J (native)   
+  22851  256     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LJLJL)J (native)   (static)
+  22851  255       3       java.lang.invoke.MethodType::makeImpl (109 bytes)
+  22852  257     n 0       java.lang.invoke.MethodHandle::linkToStatic(JL)L (native)   (static)
+  22852  258       3       java.lang.AbstractStringBuilder::putStringAt (12 bytes)
+  22852  260     n 0       java.lang.invoke.MethodHandle::invokeBasic(J)L (native)   
+  22852  261     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LJL)L (native)   (static)
+  22852  259       3       java.lang.AbstractStringBuilder::putStringAt (34 bytes)
+  22853  262       3       jdk.internal.org.objectweb.asm.SymbolTable::get (13 bytes)
+  22853  263       3       java.util.Arrays::copyOfRange (64 bytes)
+  22853  265       3       jdk.internal.org.objectweb.asm.ByteVector::putUTF8 (144 bytes)
+  22854  266     n 0       java.lang.invoke.MethodHandle::linkToStatic(JJL)J (native)   (static)
+  22854  267     n 0       java.lang.invoke.MethodHandle::invokeBasic(JJ)J (native)   
+  22854  268     n 0       java.lang.Object::clone (native)   
+  22854  269     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LJJL)J (native)   (static)
+  22855  264       3       jdk.internal.org.objectweb.asm.SymbolTable::hash (10 bytes)
+  22855  271       3       java.lang.StringLatin1::indexOfChar (33 bytes)
+  22855  273     n 0       java.lang.invoke.MethodHandle::linkToStatic(LLLJL)L (native)   (static)
+  22855  272       3       java.lang.Class::getClassLoader (28 bytes)
+  22856  275     n 0       java.lang.invoke.MethodHandle::invokeBasic(LLLJ)L (native)   
+  22856  270       1       java.lang.invoke.MethodTypeForm::parameterSlotCount (5 bytes)
+  22856  274       3       java.lang.invoke.LambdaForm::argument (27 bytes)
+  22856  276       4       java.lang.String::hashCode (60 bytes)
+  22857  277       3       sun.invoke.util.VerifyAccess::isTypeVisible (118 bytes)
+  22857  279     n 0       java.lang.invoke.MethodHandle::invokeBasic(J)J (native)   
+  22857  280     n 0       java.lang.invoke.MethodHandle::linkToSpecial(LJL)J (native)   (static)
+Elapsed time: 22820
+  22858  281       1       sun.invoke.util.Wrapper::basicTypeChar (5 bytes)
+  22858  142       4       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)   made not entrant
+  22858  282       3       java.lang.invoke.LambdaForm$Name::initIndex (26 bytes)
+  22858  284       3       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)
+  22859  283       3       java.util.concurrent.locks.LockSupport::unpark (12 bytes)
+  22859    2       3       java.lang.String::hashCode (60 bytes)   made not entrant
+  22859  285       4       java.lang.invoke.Invokers$Holder::linkToTargetMethod (9 bytes)
+  22859  286       4       java.util.concurrent.CompletableFuture::screenExecutor (31 bytes)
+  22860  115       3       java.util.concurrent.CompletableFuture::screenExecutor (31 bytes)   made not entrant
+  22860  287       4       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)
+  22959  290       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)
+  22960  288 %     3       ru.tinkoff.Main::main @ 29 (154 bytes)
+  22960  284       3       java.util.concurrent.CompletableFuture::supplyAsync (9 bytes)   made not entrant
+  22960  289       4       java.util.concurrent.locks.AbstractQueuedSynchronizer::release (19 bytes)
+  23037  292   !   3       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)
+  23037  291       3       java.util.ArrayList$Itr::hasNext (20 bytes)
+  23042  293       4       java.util.concurrent.ThreadPoolExecutor$Worker::unlock (7 bytes)
+  24137  294 %     3       ru.tinkoff.Main::main @ 80 (154 bytes)
+  25242  295       3       ru.tinkoff.Main::main (154 bytes)
+  28336  296       4       java.util.ArrayList$Itr::hasNext (20 bytes)
+  28337  291       3       java.util.ArrayList$Itr::hasNext (20 bytes)   made not entrant
+  28837  297       4       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)
+  28839  290       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::signalNext (34 bytes)   made not entrant
+  29245  298   !   4       java.util.concurrent.LinkedBlockingQueue::take (91 bytes)
+  29341  173   !   3       java.util.concurrent.LinkedBlockingQueue::take (91 bytes)   made not entrant
+  30442  299   !   4       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)
+  30637  292   !   3       java.util.concurrent.ThreadPoolExecutor::getTask (177 bytes)   made not entrant
+-1.9990065960861335E9
+Elapsed time: 42277
+  65135  143       4       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)   made not entrant
+  65135  139   !   4       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)   made not entrant
+  65135  300       4       java.util.concurrent.CompletableFuture::<init> (5 bytes)
+  65136  118       3       java.util.concurrent.CompletableFuture::<init> (5 bytes)   made not entrant
+  65136  303       4       java.util.concurrent.locks.ReentrantLock::unlock (10 bytes)
+  65137   99       3       java.util.concurrent.locks.ReentrantLock::unlock (10 bytes)   made not entrant
+  65137  307       4       java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject::signal (34 bytes)
+  65138  101       3       java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject::signal (34 bytes)   made not entrant
+  65138  304       4       java.util.concurrent.LinkedBlockingQueue$Node::<init> (10 bytes)
+  65139  122       3       java.util.concurrent.LinkedBlockingQueue$Node::<init> (10 bytes)   made not entrant
+  65139  306       4       java.util.concurrent.CompletableFuture$AsyncSupply::<init> (15 bytes)
+  65139  119       3       java.util.concurrent.CompletableFuture$AsyncSupply::<init> (15 bytes)   made not entrant
+  65139  308       4       java.util.concurrent.locks.ReentrantLock::lock (8 bytes)
+  65141  103       3       java.util.concurrent.locks.ReentrantLock::lock (8 bytes)   made not entrant
+  65141  305       4       java.util.concurrent.LinkedBlockingQueue::enqueue (14 bytes)
+  65141  124       3       java.util.concurrent.LinkedBlockingQueue::enqueue (14 bytes)   made not entrant
+  65143  309       4       java.util.concurrent.ThreadPoolExecutor::execute (132 bytes)
+  65143  301       2       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)
+  65144  302   !   2       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)
+  65351  121       3       java.util.concurrent.ThreadPoolExecutor::execute (132 bytes)   made not entrant
+  65352  311       4       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)
+  65440  301       2       java.util.concurrent.CompletableFuture::asyncSupplyStage (37 bytes)   made not entrant
+  65441  310   !   4       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)
+  65542  302   !   2       java.util.concurrent.LinkedBlockingQueue::offer (131 bytes)   made not entrant
+  65543  312 %     4       ru.tinkoff.Main::main @ 29 (154 bytes)
+  65741  313 % !   3       java.util.concurrent.ThreadPoolExecutor::runWorker @ 21 (187 bytes)
+  66146  288 %     3       ru.tinkoff.Main::main @ 29 (154 bytes)   made not entrant
+  66939  314   !   3       java.util.concurrent.ThreadPoolExecutor::runWorker (187 bytes)
+  69235  315       4       java.util.concurrent.ThreadPoolExecutor$Worker::tryRelease (12 bytes)
+  69236  157       3       java.util.concurrent.ThreadPoolExecutor$Worker::tryRelease (12 bytes)   made not entrant
+  72144  316 %     4       ru.tinkoff.Main::main @ 80 (154 bytes)
+  72542  294 %     3       ru.tinkoff.Main::main @ 80 (154 bytes)   made not entrant
+ 100639  317       3       java.util.concurrent.locks.ReentrantLock$NonfairSync::tryAcquire (27 bytes)
+ 112742  318 % !   4       java.util.concurrent.ThreadPoolExecutor::runWorker @ 21 (187 bytes)
+ 113239  313 % !   3       java.util.concurrent.ThreadPoolExecutor::runWorker @ 21 (187 bytes)   made not entrant
+ 124639  319       3       java.util.concurrent.locks.AbstractQueuedSynchronizer::acquireInterruptibly (36 bytes)
+-1.1776770831674273E9
+Elapsed time: 67904
+ 133041  320       3       java.util.Arrays::copyOf (40 bytes)
